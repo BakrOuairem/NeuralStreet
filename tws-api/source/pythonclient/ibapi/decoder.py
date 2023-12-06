@@ -3,7 +3,7 @@ Copyright (C) 2023 Interactive Brokers LLC. All rights reserved. This code is su
  and conditions of the IB API Non-Commercial License or the IB API Commercial License, as applicable.
 """
 from ibapi.const import NO_VALID_ID
-from contract import getEnumTypeFromString
+from ibapi.contract import getEnumTypeFromString # Correction Bakr (Adding the module)
 
 """
 The Decoder knows how to transform a message's payload into higher level
