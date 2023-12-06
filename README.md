@@ -1,5 +1,5 @@
 # NeuralStreet
-This repo holds an openAI gym implementation for the financial market.
+This repo holds an openAI gym implementation for the financial market from IBKR TWS API.
 
 ## Installation (Not yet configured)
 ### PART 1 : Installing python dependancies 
